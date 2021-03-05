@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jon Cohen</title>
+    <link>http://joncohen.netlify.app/post/</link>
+    <description>Recent content in Posts on Jon Cohen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://joncohen.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patient Census</title>
+      <link>http://joncohen.netlify.app/post/patient-census/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://joncohen.netlify.app/post/patient-census/</guid>
+      <description>The strains of constant admissions in residency is no joke. So when I had the chance to look at my residency&amp;rsquo;s admission data, I was curious if our patient census felt as crushing as it actually was:
+Patient Census Shiny App</description>
+    </item>
+    
+    <item>
+      <title>Immigration Impacts Physicians Too</title>
+      <link>http://joncohen.netlify.app/post/immigration-impacts-physicians-too/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joncohen.netlify.app/post/immigration-impacts-physicians-too/</guid>
+      <description>It might seem like long time ago now, but a few months ago, the Trump administration&amp;rsquo;s attempt to ban immigrants from 6 muslim majority countries dominated the media cycle. The ban impacted people from all different walks of life, but physicians were given some special attention as there is not insignificant foreign physician workforce in the US, including 7000 from Iran, Libya, Somalia, Sudan, Syria and Yemen.
+In April, Peter Kahn and Tova Gardin published a Research Letter in the Journal of the American Medical Association (JAMA).</description>
+    </item>
+    
+    <item>
+      <title>Making a Cartogram in R</title>
+      <link>http://joncohen.netlify.app/post/making-a-cartogram-in-r/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joncohen.netlify.app/post/making-a-cartogram-in-r/</guid>
+      <description>#Respect Much of this tutorial could not have been accomplished without Frank Hecker&amp;rsquo;s Blog including a key function to create a dataframe from the shapefiles.
+Some Background In April, Peter Kahn and Tova Gardin published a Research Letter in the Journal of the American Medical Association (JAMA). The article includes a table of number and percent of active physicians holding H1B visas. A few things surprised me in the map.</description>
+    </item>
+    
+    <item>
+      <title>Immigration and Physicians</title>
+      <link>http://joncohen.netlify.app/post/immigration-and-physicians/</link>
+      <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joncohen.netlify.app/post/immigration-and-physicians/</guid>
+      <description>My first day on my Surgery rotation was a whirlwind, filled with excitement at to be part of a surgery and have an idea about what is going on and the fear of getting pimped and not knowing the answer; but, honestly, my biggest fear was somehow managing to contaminate the field. Somehow I misread the numbers on the OR and went into the wrong room as a case was starting.</description>
+    </item>
+    
+  </channel>
+</rss>
