@@ -1,5 +1,5 @@
 title: Jon Cohen
-baseURL: https://example.com
+baseURL: joncohen.netlify.app/about
 theme: hugo-researcher
 disableKinds:
   - taxonomy
