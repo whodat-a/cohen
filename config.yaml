@@ -1,5 +1,5 @@
 title: Jon Cohen
-baseURL: joncohen.netlify.app/about
+baseURL: http://joncohen.netlify.app
 theme: hugo-researcher
 disableKinds:
   - taxonomy
