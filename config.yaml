@@ -1,5 +1,5 @@
-title: Jon Cohen
-baseURL: http://joncohen.netlify.app
+title: Jon Cohen | A place to store things I work on
+baseURL: "http://joncohen.netlify.app"
 theme: hugo-researcher
 disableKinds:
   - taxonomy
