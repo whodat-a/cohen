@@ -9,7 +9,7 @@ math: no
 googleAnalytics: ''
 params:
   author: Jon Cohen
-  description: A place to store things I work on.
+  description: A place to store things I work on
   favicon: favicon.ico
   footer:
     text: Theme by Olivier Roques
